@@ -6,8 +6,8 @@ space - additional acceleration,
 p - pause, continue, new game,
 esc - exit,
 
-to start the game enter command:
+To start the game enter command:
 python <foldername>
 
-to start pytest enter command:
+To start pytest enter command:
 pytest <foldername>
