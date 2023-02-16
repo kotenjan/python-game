@@ -7,7 +7,7 @@ p - pause, continue, new game,
 esc - exit,
 
 To start the game enter command:
-python <foldername>
+python [foldername]
 
 To start pytest enter command:
-pytest <foldername>
+pytest [foldername]
